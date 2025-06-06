@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hi, I'm Vishal Dani</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Vector+Search%2C+Agents%2C+FastAPI+Wizard;Let%27s+Build+the+Future+of+AI+Together!&font=Fira+Code&center=true&width=480&height=45&pause=1000&color=00BCF1" />
-</p>
-
----
-
 ## 🧠 About Me
 
 🎓 MSCS @ University of San Francisco (May 2025)  
