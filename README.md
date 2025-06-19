@@ -51,7 +51,6 @@ If you're building something cool or hiring for any of these areas—**let's con
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishaldani1602&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" width="420"/>
-  <img src="https://streak-stats.demolab.com/?user=vishaldani1602&hide_border=false" alt="GitHub Streak" width="420"/>
 </p>
 
 <p align="center">
